@@ -3,7 +3,7 @@ import LandingPage from './pages/LandingPage'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/kombai_react_module_federation_jan2026">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/login" element={<div className="p-8">Login Page</div>} />
