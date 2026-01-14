@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/nomadtoday/kombai_react_module_federation_jan2026/issues"
   },
-  "homepage": "https://github.com/nomadtoday/kombai_react_module_federation_jan2026#readme",
+  "homepage": "https://nomadtoday.github.io/kombai_react_module_federation_jan2026/",
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.4",
     "class-variance-authority": "^0.7.1",

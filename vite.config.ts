@@ -5,6 +5,7 @@ import react from "@vitejs/plugin-react"
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/kombai_react_module_federation_jan2026/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
