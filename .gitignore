@@ -1,0 +1,4 @@
+# Generated .gitignore
+# Ignore node module folders
+node_module/
+node_modules/
